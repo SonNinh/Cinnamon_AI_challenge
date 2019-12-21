@@ -1,4 +1,4 @@
-Cinamon's Code Chalenge.</br>
+Cinnamon's Code Challenge.</br>
 </br>
 Question: Fastest word transform.</br>
 Given a list of words. Find the fastest way to tranfom start_word to end_word. Only one character is changed for each turn</br>
